@@ -1,15 +1,15 @@
-- 👋 Hi, I’m @rogecastilla
-- 
-- 👀 I’m interested in engineering problems and the application of coding from basic programming to machine learning to more efficiently solve those issues.
-- my relevant ecperince coding has been trough biomedical engineering with signal proccesing, model development, and object detection. I am however interested in any challenge that involves the use of physics, chemistry and/or mathematical first principles to be resolved.
-- 
-- 🌱 I’m currently learning MatLab and Python, I also currenlty study biomedical engineering. I am looking to learn a few more languages to expand my areas of competence and 
-- work with a wider range of possible solutions.
-- 
-- 💞️ I’m looking to collaborate on repositories that are working to solve or help improve healthcare quality or interesting prompts and challenges, I'm always 
-- happy to work on a challenge!
-- 
-- 📫 How to reach me? I can always be messaged here or feel free to email me at rogecastilla.rc@gmail.com for more prompt communication!
+👋 Hi, I’m Rogelio Castilla, a biomedical engineer and founder of Innovavision Solutions, where I deliver CAD modeling, reverse engineering, simulation (FEA/CFD), and rapid-prototyping for industrial and R&D clients.
+
+⚙️ My experience spans mechanical and biomedical systems—from piston and pump assemblies to microneedle molds and wearable/implantable devices. I integrate Fusion 360, SolidWorks, OpenFOAM, and Python to bridge design, simulation, and manufacturability.
+
+🧠 I explore smart materials, soft robotics, and biohybrid systems across flexible bioelectronics, microfluidics, and additive manufacturing. I’m especially interested in how mechanical design + materials behavior enable adaptive, accessible, biologically integrated tech. Lately I’ve been developing a modified Ender 3 Pro for viscoelastic extrusion, combining low-cost bioprinting, materials science, and open, citizen-driven experimentation—a hands-on approach to making soft-matter research more accessible.
+
+🚀 Past collaborations include NASA Micro-G’s lunar marker, a Stafford–Leonov UAV design, flexible bioelectronics for improved implants, and biohybrid tissue-engineering systems for actuation and disease modeling. I’m passionate about how adaptive materials and mechanics drive innovation in healthcare and space systems.
+
+🤝 Open to collaborations in simulation, device design, or smart-material applications.
+
+📫 rogecastilla.rc@gmail.com | https://www.linkedin.com/in/rogeliocastillame/
+.
 
 <!---
 rogecastilla/rogecastilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
